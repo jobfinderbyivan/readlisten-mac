@@ -1,10 +1,14 @@
 # ReadListen for Mac
 
-ReadListen for Mac is the free companion to the ReadListen phone apps. Pair
-your phone with it and your computer prepares the audio: faster, easier on
-your phone's battery, with 40 Kokoro voices and 25 newer Phonon voices. It
-also keeps your place in each book in sync between your phones. Without it,
-the phone reads on its own.
+ReadListen for Mac reads your books aloud on the Mac, and is the free companion
+to the ReadListen phone apps.
+
+- **Read tab:** add EPUB, PDF and text files (Open, or drag them onto the
+  window) and listen with 40 Kokoro voices and 25 newer Phonon voices, each
+  word highlighted as it is read.
+- **Phones tab:** pair your phone and your Mac prepares its audio, faster and
+  easier on the phone's battery, and keeps your place in each book in sync.
+- Dark or Light, from the top right of the window.
 
 Everything stays on your phone and your own computer. The Mac app sends
 nothing to any outside service.
